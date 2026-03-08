@@ -1,0 +1,40 @@
+[dotenv@17.3.1] injecting env (5) from .env -- tip: 🔐 prevent building .env in docker: https://dotenvx.com/prebuild
+[dotenv@17.3.1] injecting env (0) from .env -- tip: ⚙️  enable debug logging with { debug: true }
+Error initializing database: Error
+    at Object.createConnectionPromise [as createConnection] (C:\Users\VINAY\OneDrive\Documents\NODE JS\school-management-api\node_modules\mysql2\promise.js:19:31)
+    at initializeDatabase (C:\Users\VINAY\OneDrive\Documents\NODE JS\school-management-api\src\db.js:17:36)
+    at startServer (C:\Users\VINAY\OneDrive\Documents\NODE JS\school-management-api\src\index.js:25:11)
+    at Object.<anonymous> (C:\Users\VINAY\OneDrive\Documents\NODE JS\school-management-api\src\index.js:32:1)
+    at Module._compile (node:internal/modules/cjs/loader:1761:14)
+    at Object..js (node:internal/modules/cjs/loader:1893:10)
+    at Module.load (node:internal/modules/cjs/loader:1481:32)
+    at Module._load (node:internal/modules/cjs/loader:1300:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:245:24) {
+  code: 'ECONNREFUSED',
+  errno: undefined,
+  sqlState: undefined
+}
+Server is running on port 3000
+Error adding school: TypeError: Cannot read properties of undefined (reading 'query')
+    at exports.addSchool (C:\Users\VINAY\OneDrive\Documents\NODE JS\school-management-api\src\controllers\schoolController.js:25:40)
+    at Layer.handleRequest (C:\Users\VINAY\OneDrive\Documents\NODE JS\school-management-api\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\VINAY\OneDrive\Documents\NODE JS\school-management-api\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\VINAY\OneDrive\Documents\NODE JS\school-management-api\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\VINAY\OneDrive\Documents\NODE JS\school-management-api\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\VINAY\OneDrive\Documents\NODE JS\school-management-api\node_modules\router\lib\layer.js:152:17)
+    at C:\Users\VINAY\OneDrive\Documents\NODE JS\school-management-api\node_modules\router\index.js:295:15
+    at processParams (C:\Users\VINAY\OneDrive\Documents\NODE JS\school-management-api\node_modules\router\index.js:582:12)
+    at next (C:\Users\VINAY\OneDrive\Documents\NODE JS\school-management-api\node_modules\router\index.js:291:5)
+    at router.handle (C:\Users\VINAY\OneDrive\Documents\NODE JS\school-management-api\node_modules\router\index.js:186:3)
+Error listing schools: TypeError: Cannot read properties of undefined (reading 'query')
+    at exports.listSchools (C:\Users\VINAY\OneDrive\Documents\NODE JS\school-management-api\src\controllers\schoolController.js:51:41)
+    at Layer.handleRequest (C:\Users\VINAY\OneDrive\Documents\NODE JS\school-management-api\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\VINAY\OneDrive\Documents\NODE JS\school-management-api\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\VINAY\OneDrive\Documents\NODE JS\school-management-api\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\VINAY\OneDrive\Documents\NODE JS\school-management-api\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\VINAY\OneDrive\Documents\NODE JS\school-management-api\node_modules\router\lib\layer.js:152:17)
+    at C:\Users\VINAY\OneDrive\Documents\NODE JS\school-management-api\node_modules\router\index.js:295:15
+    at processParams (C:\Users\VINAY\OneDrive\Documents\NODE JS\school-management-api\node_modules\router\index.js:582:12)
+    at next (C:\Users\VINAY\OneDrive\Documents\NODE JS\school-management-api\node_modules\router\index.js:291:5)
+    at router.handle (C:\Users\VINAY\OneDrive\Documents\NODE JS\school-management-api\node_modules\router\index.js:186:3)

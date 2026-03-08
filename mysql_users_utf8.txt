@@ -1,0 +1,5 @@
+﻿User	Host	plugin
+mysql.infoschema	localhost	caching_sha2_password
+mysql.session	localhost	caching_sha2_password
+mysql.sys	localhost	caching_sha2_password
+root	localhost	caching_sha2_password

@@ -1,0 +1,61 @@
+﻿Name                                        Id                                        Version      Match      Source
+---------------------------------------------------------------------------------------------------------------------
+SQLPro for MySQL                            9PFHQWV7FCHK                              Unknown                 msstore
+MySQL Client Go                             9PMCW63W4G3B                              Unknown                 msstore
+Navicat 17 for MySQL                        XP9KGG7DX4NM3R                            Unknown                 msstore
+MySQL                                       Oracle.MySQL                              8.4.8                   winget
+XAMPP 8.1                                   ApacheFriends.Xampp.8.1                   8.1.25-0     Tag: mysql winget
+XAMPP 8.2                                   ApacheFriends.Xampp.8.2                   8.2.12-0     Tag: mysql winget
+Arctype                                     Arctype.Arctype                           0.9.71       Tag: mysql winget
+Benthic Software: GoldSqall 1.x             BenthicSoftware.GoldSqall.1               1.5.0.130    Tag: mysql winget
+Benthic Software: GoldSqall 2.x             BenthicSoftware.GoldSqall.2               2.2.0.222    Tag: mysql winget
+DbVisualizer                                DBVis.DBVisualizer                        26.1         Tag: mysql winget
+DBeaver                                     DBeaver.DBeaver.Community                 26.0.0       Tag: mysql winget
+DBeaverEE                                   DBeaver.DBeaver.Enterprise                25.3.0       Tag: mysql winget
+DBeaverLite                                 DBeaver.DBeaver.Lite                      25.3.0       Tag: mysql winget
+DBeaverTeam                                 DBeaver.DBeaver.Team                      25.3.0       Tag: mysql winget
+DBeaverUltimate                             DBeaver.DBeaver.Ultimate                  25.3.0       Tag: mysql winget
+tabularis                                   Debba.Tabularis                           0.9.6        Tag: mysql winget
+HeidiSQL                                    HeidiSQL.HeidiSQL                         12.15.0.7171 Tag: mysql winget
+Luna Modeler                                Ideamerit.LunaModeler                     13.0.0       Tag: mysql winget
+DbGate                                      JanProchazka.dbgate                       7.1.2        Tag: mysql winget
+DataGrip                                    JetBrains.DataGrip                        2025.3.5     Tag: mysql winget
+DataGrip (EAP)                              JetBrains.DataGrip.EAP                    261.21849.37 Tag: mysql winget
+anyquery                                    JulienCagniart.anyquery                   0.4.4        Tag: mysql winget
+Lando - Pushbutton Development Environments Lando.Lando                               3.24.3       Tag: mysql winget
+Laragon                                     LeNgocKhoa.Laragon                        8.6.1        Tag: mysql winget
+MAMP & MAMP PRO                             MAMP.MAMP                                 5.0.5        Tag: mysql winget
+MariaDB                                     MariaDB.Server                            12.2.2.0     Tag: mysql winget
+MySQL Notifier                              Oracle.MySQLNotifier                      1.1.8        Tag: mysql winget
+PremiumSoft Navicat Premium                 PremiumSoft.NavicatPremium                16.1.15      Tag: mysql winget
+Navicat Premium Lite                        PremiumSoft.NavicatPremiumLite            17.3.7       Tag: mysql winget
+Goose                                       Pressly.Goose                             3.27.0       Tag: mysql winget
+TablePlus                                   TablePlus.TablePlus                       6.9.2        Tag: mysql winget
+TeamIDE                                     TeamIDE.TeamIDE                           2.6.38       Tag: mysql winget
+SQL Schema Compare                          TiCodeX.SQLSchemaCompare                  2026.3.1     Tag: mysql winget
+Wampserver                                  Wampserver.Wampserver                     3.4.0        Tag: mysql winget
+Dbmate                                      amacneil.dbmate                           2.31.0       Tag: mysql winget
+Beekeeper Studio                            beekeeper-studio.beekeeper-studio         5.6.0        Tag: mysql winget
+TriCo                                       ngudbhav.TriCo                            3.1.0        Tag: mysql winget
+Algernon                                    xyproto.algernon                          1.17.5       Tag: mysql winget
+DiskInternals MySQL Recovery                DiskInternals.MySQLRecovery               4.8          Tag: MySQL winget
+Navicat BI                                  PremiumSoft.NavicatBI                     2.3.7        Tag: MySQL winget
+Navicat BI Viewer                           PremiumSoft.NavicatBIViewer               2.3.7        Tag: MySQL winget
+Navicat Data Modeler                        PremiumSoft.NavicatDataModeler            4.3.7        Tag: MySQL winget
+Navicat Data Modeler Lite                   PremiumSoft.NavicatDataModelerLite        4.3.7        Tag: MySQL winget
+Navicat Monitor                             PremiumSoft.NavicatMonitor                3.1.4        Tag: MySQL winget
+Navicat for MySQL                           PremiumSoft.NavicatMySQL                  17.3.7       Tag: MySQL winget
+Navicat On-Prem Server                      PremiumSoft.NavicatOnPremServer           3.0.1        Tag: MySQL winget
+Sante PACS Server PG                        Santesoft.SantePacsServerPG               4.2.5        Tag: MySQL winget
+Stellar Repair for MySQL                    StellarDataRecovery.StellarRepairForMySQL 9.0.0.7      Tag: MySQL winget
+Kangaroo MariaDB                            Taozuhong.KangarooMariaDB                 9.2.1.301    Tag: MySQL winget
+Kangaroo MongoDB                            Taozuhong.KangarooMongoDB                 9.2.1.301    Tag: MySQL winget
+Kangaroo Multiple                           Taozuhong.KangarooMultiple                9.2.1.301    Tag: MySQL winget
+Kangaroo MySQL                              Taozuhong.KangarooMySQL                   9.2.1.301    Tag: MySQL winget
+Kangaroo Oracle                             Taozuhong.KangarooOracle                  9.2.1.301    Tag: MySQL winget
+Kangaroo PostgreSQL                         Taozuhong.KangarooPostgreSQL              9.2.1.301    Tag: MySQL winget
+Kangaroo Redis                              Taozuhong.KangarooRedis                   9.2.1.301    Tag: MySQL winget
+Kangaroo SQLServer                          Taozuhong.KangarooSQLServer               9.2.1.301    Tag: MySQL winget
+Kangaroo SQLite                             Taozuhong.KangarooSQLite                  9.2.1.301    Tag: MySQL winget
+MySQL Shell                                 Oracle.MySQLShell                         8.4.5                   winget
+MySQL Workbench 8.0 CE                      Oracle.MySQLWorkbench                     8.0.46                  winget

@@ -1,0 +1,30 @@
+﻿
+   - 
+                                                                                                                        
+Found MySQL [Oracle.MySQL]
+Version: 8.4.8
+Publisher: Oracle Corporation
+Publisher Url: https://www.oracle.com/
+Moniker: mysql
+Description:
+  The MySQL software delivers a very fast, multithreaded, multi-user, and robust SQL (Structured Query Language) database server.
+  MySQL Server is intended for mission-critical, heavy-load production systems as well as for embedding into mass-deployed software.
+License: GNU General Public License version 2
+Privacy Url: https://www.oracle.com/us/legal/privacy/index.htm
+Copyright: ┬⌐ 2021, Oracle Corporation and/or its affiliates
+Tags:
+  database
+  mysql
+  oracle
+  server
+  sql
+Installer:
+  Installer Type: wix
+  Installer Locale: en-US
+  Installer Url: https://cdn.mysql.com/Downloads/MySQL-8.4/mysql-8.4.8-winx64.msi
+  Installer SHA256: f2decfbcd661b1a703e42b3931af11d9db5c9b632c8477b6348e9dbff8a76f79
+  Release Date: 2025-12-23
+  Offline Distribution Supported: true
+  Dependencies: 
+    - Package Dependencies: 
+        Microsoft.VCRedist.2015+.x64
