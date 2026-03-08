@@ -2,7 +2,6 @@ const express = require('express');
 const cors = require('cors');
 require('dotenv').config();
 
-const { initializeDatabase } = require('./db');
 const schoolRoutes = require('./routes/schoolRoutes');
 
 const app = express();
@@ -24,7 +23,6 @@ app.get('/', (req, res) => {
 
 // Start server
 const startServer = async () => {
-    await initializeDatabase();
 
     app.listen(PORT, () => {
         console.log(`Server is running on port ${PORT}`);
